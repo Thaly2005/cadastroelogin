@@ -44,8 +44,8 @@
             <h3 class="float-md-start mb-0">Cadastro</h3>
             <nav class="nav nav-masthead justify-content-center float-md-end">
                 <a class="nav-link" href="index.php">Início</a>
-                <a class="nav-link active" aria-current="page" href="#">Cadastre-se</a>
-                <a class="nav-link" href="#">Log in</a>
+                <a class="nav-link" href="cadastro.php">Cadastre-se</a>
+                <a class="nav-link active" aria-current="page" href="login.php">Log in</a>
             </nav>
         </div>
     </header>

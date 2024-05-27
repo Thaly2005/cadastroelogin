@@ -48,10 +48,10 @@ $urlDoLink = "https://github.com/Thaly2005/cadastroelogin";
     <div>
       <h3 class="float-md-start mb-0">Início</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link active" aria-current="page" href="#">Início</a>
-        <a class="nav-link" href="#">Cadastre-se</a>
-        <a class="nav-link" href="#">Log in</a>
-      </nav>
+                <a class="nav-link" href="index.php">Início</a>
+                <a class="nav-link" href="cadastro.php">Cadastre-se</a>
+                <a class="nav-link active" aria-current="page" href="login.php">Log in</a>
+            </nav>
     </div>
   </header>
 
