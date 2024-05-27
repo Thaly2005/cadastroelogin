@@ -1,3 +1,8 @@
+<?php
+$nomeDoLink = "GitHub";
+$urlDoLink = "https://github.com/Thaly2005/cadastroelogin";
+?> 
+
 <!doctype html>
 <html lang="en" class="h-100">
   <head>
@@ -54,7 +59,7 @@
     <h1>Seja bem-vind@</h1>
     <p class="lead">Essa é a página principal feita para uma atividade avaliativa do segundo trimeste em Programação Web</p>
     <p class="lead">
-      <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">GitHub</a>
+    <a href="<?php echo $urlDoLink; ?>"><?php echo $nomeDoLink; ?></a>
     </p>
   </main>
 
