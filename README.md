@@ -41,6 +41,25 @@ A aplicação é composta pelos seguintes arquivos e suas respectivas funcionali
 
 ## Tecnologias Utilizadas:
 
+Essas foram as tecnologias utilizadas:
+
+CSS
+
+<img src="_img/css.png" width="30%">
+
+MySQL
+
+<img src="_img/mysql.png" width="30%">
+
+PHP
+
+<img src="_img/php.png" width="30%">
+
+Visual Studio Code
+
+<img src="_img/vscode.png" width="30%">
+
+
 ## Fontes Consultadas:
 
 ## Autores
