@@ -49,7 +49,7 @@ CSS
 
 MySQL
 
-<img src="_img/my" width="30%">
+<img src="_img/my.png" width="30%">
 
 PHP
 
