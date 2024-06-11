@@ -62,11 +62,11 @@ Visual Studio Code
 
 ## Fontes Consultadas:
 
-[Documentação do PHP](https://www.php.net/docs.php)
+[PHP](https://www.php.net/docs.php) - Documentação do PHP
 
-[Documentação do MySQL](https://dev.mysql.com/doc/)
+[MySQL](https://dev.mysql.com/doc/) - Documentação do MySQL
 
-[Bootstrap Exemplos](https://getbootstrap.com/docs/5.0/examples/)
+[Bootstrap](https://getbootstrap.com/docs/5.0/examples/) - Bootstrap Exemplos
 
 ## Autores
 Thalyta das Neves Ferreira 3°A
