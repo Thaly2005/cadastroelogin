@@ -14,6 +14,8 @@
 
 # Projeto - Aplicação de cadastro e login
 
+<img src="_img/demonstração.gif">
+
 ## Descrição:
 Esse código cria três páginas, nomeadas "Início", "Cadastro" e por fim "Log in". Além de uma ligação com um banco de dados para as duas últimas páginas mencionadas, a de cadastro e log in. 
 
