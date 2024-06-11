@@ -49,7 +49,7 @@ CSS
 
 MySQL
 
-<img src="_img/my" width="30%">
+<img src="_img/my.png" width="30%">
 
 PHP
 
@@ -62,4 +62,11 @@ Visual Studio Code
 
 ## Fontes Consultadas:
 
+[PHP](https://www.php.net/docs.php) - Documentação do PHP
+
+[MySQL](https://dev.mysql.com/doc/) - Documentação do MySQL
+
+[Bootstrap](https://getbootstrap.com/docs/5.0/examples/) - Bootstrap Exemplos
+
 ## Autores
+Thalyta das Neves Ferreira 3°A
