@@ -70,5 +70,7 @@ Visual Studio Code
 
 [Bootstrap](https://getbootstrap.com/docs/5.0/examples/) - Bootstrap Exemplos
 
+[Consulta BD](https://consultabd.wordpress.com/2019/11/11/conectando-o-vs-code-com-o-sql-server/) - Conectando o VS Code com o SQL Server
+
 ## Autores
 Thalyta das Neves Ferreira 3°A
